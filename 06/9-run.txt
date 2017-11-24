@@ -1,0 +1,14 @@
+/usr/local/Cellar/python3/3.6.2/Frameworks/Python.framework/Versions/3.6/bin/python3.6 /Users/nakaihiroki/PycharmProjects/class/06/9.py
+【数値当てゲーム】
+        パソコンが1~100の数値をランダムで用意します。
+        どの数字が用意されるか予測してみよう！！
+パソコンが用意した数値を予測してください：　50
+大きすぎます。
+パソコンが用意した数値を予測してください：　25
+小さすぎます。
+パソコンが用意した数値を予測してください：　40
+大きすぎます。
+パソコンが用意した数値を予測してください：　33
+正解です 4回目で正解しました。
+
+Process finished with exit code 0

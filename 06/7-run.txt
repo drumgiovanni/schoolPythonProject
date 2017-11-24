@@ -1,0 +1,7 @@
+/usr/local/Cellar/python3/3.6.2/Frameworks/Python.framework/Versions/3.6/bin/python3.6 /Users/nakaihiroki/PycharmProjects/class/06/7.py
+True
+False
+True
+True
+
+Process finished with exit code 0

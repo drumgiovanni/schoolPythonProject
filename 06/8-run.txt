@@ -1,0 +1,6 @@
+/usr/local/Cellar/python3/3.6.2/Frameworks/Python.framework/Versions/3.6/bin/python3.6 /Users/nakaihiroki/PycharmProjects/class/06/8-1.py
+['yellow', 'blue', 'red']
+[5, 4, 3, 2, 1]
+['g', 'f', 'e', 'd', 'c', 'b', 'a']
+
+Process finished with exit code 0
