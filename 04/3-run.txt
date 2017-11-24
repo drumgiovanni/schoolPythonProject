@@ -1,0 +1,8 @@
+/Library/Frameworks/Python.framework/Versions/3.6/bin/python3.6 /home/c/a14/a14ca113/PycharmProjects/Programming/04/3.py
+英文を入力してください： Hello, my name is hiroki
+5
+英文を入力してください： Nice to meet you
+4
+英文を入力してください： END
+
+Process finished with exit code 0

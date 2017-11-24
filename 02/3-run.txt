@@ -1,0 +1,5 @@
+/Library/Frameworks/Python.framework/Versions/3.6/bin/python3.6 /home/c/a14/a14ca113/PycharmProjects/Programming/02/3.py
+好きな英単語を入力してください: Java
+コーヒー
+
+Process finished with exit code 0

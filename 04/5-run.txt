@@ -1,0 +1,16 @@
+/Library/Frameworks/Python.framework/Versions/3.6/bin/python3.6 /home/c/a14/a14ca113/PycharmProjects/Programming/04/5.py
+1日は何時間か？　
+	 1.18時間  2.22時間  3.24時間
+解答を入力してください： 3
+おめでとうございます。正解です！
+日本とイギリスの時差は何時間か？
+	1.2時間  2.9時間  3.14時間
+解答を入力してください： 1
+ザンネーン。不正解！
+野の花ハウスでホットコーヒーはいくらで売られているか？
+	1.100円  2.110円  3.120円
+解答を入力してください： 1
+おめでとうございます。正解です！
+正答率は 66.7% でした
+
+Process finished with exit code 0

@@ -1,0 +1,16 @@
+/Library/Frameworks/Python.framework/Versions/3.6/bin/python3.6 /home/c/a14/a14ca113/PycharmProjects/Programming/06/5.py
+お名前を入力してください：　Tanaka Ichiro
+働いた時間を入力してください：　10
+お名前を入力してください：　Suzuki Taro
+働いた時間を入力してください：　5
+お名前を入力してください：　Yamada Hanako
+働いた時間を入力してください：　12
+お名前を入力してください：　Suzuki Taro
+働いた時間を入力してください：　24
+お名前を入力してください：　Suzuki Taro
+働いた時間を入力してください：　24
+お名前を入力してください：　Yamada Hanako
+働いた時間を入力してください：　1
+お名前を入力してください：　END
+
+Process finished with exit code 0

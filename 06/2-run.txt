@@ -1,0 +1,14 @@
+/Library/Frameworks/Python.framework/Versions/3.6/bin/python3.6 /home/c/a14/a14ca113/PycharmProjects/Programming/06/2.py
+好きな数字を入力してください：　9
+
+#
+##
+###
+####
+#####
+####
+###
+##
+#
+
+Process finished with exit code 0

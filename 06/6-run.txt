@@ -1,0 +1,6 @@
+/Library/Frameworks/Python.framework/Versions/3.6/bin/python3.6 /home/c/a14/a14ca113/PycharmProjects/Programming/06/6.py
+Tanaka Ichiro 10
+Suzuki Taro 53
+Yamada Hanako 13
+
+Process finished with exit code 0

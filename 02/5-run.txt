@@ -1,0 +1,8 @@
+/Library/Frameworks/Python.framework/Versions/3.6/bin/python3.6 /home/c/a14/a14ca113/PycharmProjects/Programming/02/5.py
+好きな整数を入力してください: 4
+0
+1
+2
+3
+
+Process finished with exit code 0

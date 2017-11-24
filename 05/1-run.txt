@@ -1,0 +1,23 @@
+/Library/Frameworks/Python.framework/Versions/3.6/bin/python3.6 /home/c/a14/a14ca113/PycharmProjects/Programming/05/1.py
+348
+
+606
+
+760
+
+336
+
+820
+
+936
+
+848
+
+983
+
+693
+
+750
+
+
+Process finished with exit code 0

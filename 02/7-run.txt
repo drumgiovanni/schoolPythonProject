@@ -1,0 +1,7 @@
+/Library/Frameworks/Python.framework/Versions/3.6/bin/python3.6 /home/c/a14/a14ca113/PycharmProjects/Programming/02/7.py
+整数を入力してください2
+整数を入力してください3
+整数を入力してください4
+a,b,cを辺とする三角形が成り立ちます
+
+Process finished with exit code 0

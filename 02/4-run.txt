@@ -1,0 +1,8 @@
+/Library/Frameworks/Python.framework/Versions/3.6/bin/python3.6 /home/c/a14/a14ca113/PycharmProjects/Programming/02/4.py
+Hello, World!
+Hello, World!
+Hello, World!
+Hello, World!
+Hello, World!
+
+Process finished with exit code 0

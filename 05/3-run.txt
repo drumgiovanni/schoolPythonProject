@@ -1,0 +1,14 @@
+/Library/Frameworks/Python.framework/Versions/3.6/bin/python3.6 /home/c/a14/a14ca113/PycharmProjects/Programming/05/3.py
+x=16,y=98 => 256 9604
+x=117,y=375 => 13689 140625
+x=37,y=139 => 1369 19321
+x=108,y=259 => 11664 67081
+x=87,y=31 => 7569 961
+x=118,y=275 => 13924 75625
+x=38,y=43 => 1444 1849
+x=68,y=381 => 4624 145161
+x=28,y=214 => 784 45796
+
+今回は、9回実行されました
+
+Process finished with exit code 0

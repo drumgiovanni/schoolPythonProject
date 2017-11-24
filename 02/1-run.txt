@@ -1,0 +1,5 @@
+/Library/Frameworks/Python.framework/Versions/3.6/bin/python3.6 /home/c/a14/a14ca113/PycharmProjects/Programming/02/1.py
+品物の価格を入力してください34
+品物の価格は、税込36.72円です。
+
+Process finished with exit code 0

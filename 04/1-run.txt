@@ -1,0 +1,5 @@
+/Library/Frameworks/Python.framework/Versions/3.6/bin/python3.6 /home/c/a14/a14ca113/PycharmProjects/Programming/04/1.py
+数を入力してください： 28
+############################
+
+Process finished with exit code 0

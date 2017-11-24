@@ -1,0 +1,7 @@
+/Library/Frameworks/Python.framework/Versions/3.6/bin/python3.6 /home/c/a14/a14ca113/PycharmProjects/Programming/02/8.py
+整数を入力してください2
+整数を入力してください5
+整数を入力してください10
+10
+
+Process finished with exit code 0

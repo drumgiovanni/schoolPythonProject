@@ -1,0 +1,15 @@
+/Library/Frameworks/Python.framework/Versions/3.6/bin/python3.6 /home/c/a14/a14ca113/PycharmProjects/Programming/04/4.py
+Enter some sentences (enter END to terminate) hello my name is hiroki
+Enter some sentences (enter END to terminate) please call me hiroki
+Enter some sentences (enter END to terminate) hello hiroki
+Enter some sentences (enter END to terminate) END
+hello 2
+my 1
+name 1
+is 1
+hiroki 3
+please 1
+call 1
+me 1
+
+Process finished with exit code 0

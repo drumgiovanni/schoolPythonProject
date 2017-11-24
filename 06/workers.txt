@@ -1,0 +1,6 @@
+Tanaka Ichiro	10
+Suzuki Taro	5
+Yamada Hanako	12
+Suzuki Taro	24
+Suzuki Taro	24
+Yamada Hanako	1

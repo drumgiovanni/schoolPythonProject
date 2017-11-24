@@ -1,0 +1,9 @@
+/Library/Frameworks/Python.framework/Versions/3.6/bin/python3.6 /home/c/a14/a14ca113/PycharmProjects/Programming/03/3.py
+どこから？2
+どこまで？5
+2 南田辺
+3 鶴ヶ丘
+4 長居
+5 我孫子町
+
+Process finished with exit code 0

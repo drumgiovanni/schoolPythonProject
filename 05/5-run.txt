@@ -1,0 +1,14 @@
+/Library/Frameworks/Python.framework/Versions/3.6/bin/python3.6 /home/c/a14/a14ca113/PycharmProjects/Programming/05/5.py
+1
+1
+2
+6
+24
+120
+720
+5040
+40320
+362880
+3628800
+
+Process finished with exit code 0

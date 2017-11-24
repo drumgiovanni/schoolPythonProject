@@ -1,0 +1,4 @@
+/Library/Frameworks/Python.framework/Versions/3.6/bin/python3.6 /home/c/a14/a14ca113/PycharmProjects/Programming/03/4.py
+[6, 8, 2, 4, 5, 7, 9]
+
+Process finished with exit code 0

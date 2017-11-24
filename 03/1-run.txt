@@ -1,0 +1,11 @@
+/Library/Frameworks/Python.framework/Versions/3.6/bin/python3.6 /home/c/a14/a14ca113/PycharmProjects/Programming/03/1.py
+先頭は red
+後から２番目は purple
+1 番目の色は red です
+2 番目の色は blue です
+3 番目の色は yellow です
+4 番目の色は green です
+5 番目の色は purple です
+6 番目の色は black です
+
+Process finished with exit code 0
