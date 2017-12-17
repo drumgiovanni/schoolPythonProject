@@ -1,0 +1,4 @@
+/usr/local/Cellar/python3/3.6.2/Frameworks/Python.framework/Versions/3.6/bin/python3.6 /Users/nakaihiroki/PycharmProjects/class/07/3.py
+[Counter] カウンターは41
+
+Process finished with exit code 0

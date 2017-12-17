@@ -1,0 +1,5 @@
+/usr/local/Cellar/python3/3.6.2/Frameworks/Python.framework/Versions/3.6/bin/python3.6 /Users/nakaihiroki/PycharmProjects/class/07/2.py
+[Polygon] 辺の数：　4, 辺の長さ：　16
+[Polygon] 辺の数：　5, 辺の長さ：　5
+
+Process finished with exit code 0
