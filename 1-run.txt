@@ -1,9 +1,0 @@
-/Library/Frameworks/Python.framework/Versions/3.6/bin/python3.6 /home/c/a14/a14ca113/PycharmProjects/Programming/07/1.py
-[Polygon] 辺の数: 3, 辺の長さ: 10
-周囲の長さ: 30
-面積: 43.301270189221924
-[Polygon] 辺の数: 4, 辺の長さ: 25
-周囲の長さ: 100
-面積: 625
-
-Process finished with exit code 0
