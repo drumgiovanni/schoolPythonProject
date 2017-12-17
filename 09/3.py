@@ -6,7 +6,6 @@ class JApp(Frame):
         self.pack()
         self.master.title("じゃんけん")
         frame = Frame(self)
-        frame.pack()
         frameb = Frame(self)
         frameb.pack()
         frame.pack(side=BOTTOM)
@@ -18,7 +17,6 @@ class JApp(Frame):
         Label(frameb, textvariable=self.disp, font=("Sans-Serif", 25)).pack()
 
     def notify(self, id):
-        print("aa")
         if id =="d":
             self.disp.set("あいこ")
         elif id =="w":
